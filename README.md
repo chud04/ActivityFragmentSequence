@@ -1,3 +1,9 @@
+ActivityFragmentSequence
+========================
+
+Log the sequence of Android Activity and Fragment: onCreate, onStart, onCreateView, onResume, onPause, onStop, onDestroy.
+
+
 05-14 13:32:51.307: D/TEST(4183): Activity: Before super.onCreate
 05-14 13:32:51.307: D/TEST(4183): Activity: After  super.onCreate
 05-14 13:32:51.317: D/TEST(4183): Activity: Before super.onStart
